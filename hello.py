@@ -1,0 +1,1 @@
+print("My AI learning journey begins today!")
